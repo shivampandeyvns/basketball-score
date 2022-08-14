@@ -53,7 +53,7 @@ function resetScore()
     scoreGuest=0
     homeScore.innerText=scoreHome;
     guestScore.innerText=scoreGuest;
-    leader.innerText="";
+    leader.innerText=" ";
 }
 
 function leaderScore()
